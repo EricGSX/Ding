@@ -1,0 +1,41 @@
+[ 2017-04-09T15:32:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+

@@ -1,0 +1,1278 @@
+[ 2017-04-05T20:47:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.394022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.394022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T20:52:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T20:53:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:00:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:00:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:01:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:01:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:01:38+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/aid/13/uid/60.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0140s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_replay3` [ RunTime:0.0260s ]
+SQL: SELECT * FROM `gd_replay3` WHERE ( mid=13 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\1223f42a89e823bf89547594651162de.php 第 61 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\1223f42a89e823bf89547594651162de.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:02:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T21:02:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-05T21:02:47+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/aid/13/uid/60.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `id` = 13 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_replay3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_replay3` WHERE ( mid=13 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\1223f42a89e823bf89547594651162de.php 第 61 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\1223f42a89e823bf89547594651162de.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T21:11:59+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/aid/13/uid/60.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `id` = 13 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_replay3` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_replay3` WHERE ( mid=13 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\1223f42a89e823bf89547594651162de.php 第 61 行.
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\1223f42a89e823bf89547594651162de.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:08:14+08:00 ] 127.0.0.1 /index.php/Home/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-04-05T22:08:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:08:23+08:00 ] 127.0.0.1 /index.php/Home/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-04-05T22:08:47+08:00 ] 127.0.0.1 /index.php/Home/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-04-05T22:08:53+08:00 ] 127.0.0.1 /index.php/Home/Home/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-04-05T22:08:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:09:00+08:00 ] 127.0.0.1 /index.php/Home/User/Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-04-05T22:12:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-05T22:12:03+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\UserController.class.php 第 157 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-04-05T22:12:23+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:13:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:13:39+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\UserController.class.php 第 157 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-04-05T22:21:38+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\UserController.class.php 第 157 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `uid` = null AND `del` = 0  [ RunTime:0.0160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-04-05T22:24:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:25:21+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\UserController.class.php 第 157 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:25:36+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\UserController.class.php 第 157 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-04-05T22:25:43+08:00 ] 127.0.0.1 /index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_user` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_user` WHERE `nickname` = '666' AND `password` = 'f3dcdbbf6d860793ff58743b77f9bc0d' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `gd_user` SET `online_time`='1491402343' WHERE ( id = 60 ) [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:25:44+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gd_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_user` WHERE `id` = 60 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:26:14+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `uid` = 60  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:34:26+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `uid` = 60  [ RunTime:0.0020s ]
+ERR: 模板不存在:./Application/Home/View/User/myself.html
+
+[ 2017-04-05T22:34:44+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_user` WHERE `id` = 60 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:34:46+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `uid` = 60  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\8a99d422c30be956056db5745f5c5884.php 第 88 行.
+NOTIC: [8] Undefined variable: userInfo D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\8a99d422c30be956056db5745f5c5884.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:39:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gd_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_user` WHERE `id` = 60 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-05T22:41:08+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `uid` = 60 ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\8a99d422c30be956056db5745f5c5884.php 第 88 行.
+NOTIC: [8] Undefined variable: userInfo D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\8a99d422c30be956056db5745f5c5884.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-04-05T22:44:49+08:00 ] 127.0.0.1 /index.php/Home/User/myself
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `gd_mg0` WHERE `uid` = 60 ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_user` WHERE `id` = 60 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Runtime\Cache\Home\8a99d422c30be956056db5745f5c5884.php 第 88 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-04-05T22:53:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `gd_user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_user` WHERE `id` = 60 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: visitor D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-04-05T23:58:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.3432s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0312s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.1560s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.1092s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.1092s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.2028s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0468s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.1248s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0468s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0780s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.2496s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-05T23:59:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+NOTIC: [8] Undefined index: id D:\PhpStudy\WWW\ding_bbs\Application\Home\Controller\IndexController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `gd_mg0` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg0` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `gd_mg1` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `gd_mg1` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg2` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `gd_mg2` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg3` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg3` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg4` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg4` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg5` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `gd_mg5` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `gd_mg6` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg6` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `gd_mg7` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg7` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `gd_mg8` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `gd_mg8` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `gd_mg9` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `gd_mg9` WHERE ( del = 0 ) ORDER BY creat_time desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
